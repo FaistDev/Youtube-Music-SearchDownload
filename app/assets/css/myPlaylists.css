@@ -1,0 +1,31 @@
+#newPlaylist {
+    display: none;
+    background: #0F0F14;
+    width: 70%;
+    height: 130px;
+    border: solid 2px white;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#newPlaylist input {
+    display: block;
+    padding: 5px;
+    font-size: 17px;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+#newPlaylist button {
+    margin: 15px;
+    font-size: 17px;
+    padding: 5px;
+}
+#closeButton_newPlaylist {
+    float: right;
+}
+#playlistSongs {
+    display: none;
+    margin-bottom: 230px;
+}

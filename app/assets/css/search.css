@@ -1,0 +1,21 @@
+#playlists {
+    display: none;
+    background: #0F0F14;
+    width: 70%;
+    height: 130px;
+    border: solid 2px white;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.addToPlaylistButton{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#searchResults h3 {
+    color: white;
+}
+#searchResults {
+    margin-bottom: 230px;
+}
